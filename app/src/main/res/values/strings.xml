@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ICT query generator</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="fullsearch">FullSearch</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_info">info</string>
+    <string name="title_activity_information">Information</string>
+    <string name="information">Information</string>
+
+</resources>
